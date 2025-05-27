@@ -1,12 +1,33 @@
 {
-    "transparency16": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "myTiles.transparency16": {
+        "id": "myTiles.transparency16",
+        "data": "hwQQABAAAADPz8/Pz8zPz8/Mz8/Mz8/MzM/PzM/PzM/Pz8zPz8zPz8/Mz8/Mz8/MzM/PzM/PzM/Pz8zPz8zPz8/Mz8/Mz8/MzM/PzM/PzM/Pz8zPz8zPz8/Mz8/Mz8/MzM/PzM/PzM/Pz8zPz8zPz8/Mz8/Mz8/MzM/PzM/PzM/Pz8zPz8/Pzw==",
+        "dataEncoding": "base64",
+        "namespace": "myTiles.",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
-    "*": {
-        "mimeType": "image/x-mkcd-f4",
+    "level1": {
+        "id": "level1",
+        "data": "MTAxMDAwMTAwMDAyMDEwMTAxMDEwMTAxMDkwYzBiMDEwMTAxMDEwMTAzMDcwYzA4MGMwYzA4MGMwODBjMDgwYzBjMGMwYzBjMDYwNzBjMDgwODBjMDgwYzA4MGMwODBjMDgwYzA4MGMwNjA3MGMwODBjMGMwYzBjMDgwYzBjMGMwODBjMDgwODA2MDcwYzBjMGMwODA4MGMwODA4MDgwYzA4MGMwYzA4MDYwNzA4MDgwODA4MDgwYzBjMGMwODA4MDgwODBjMDgwNjA3MGMwYzA4MGMwYzBjMDgwYzA4MGMwYzA4MGMwYzA2MDcwYzA4MDgwODBjMDgwODBjMDgwODBjMDgwODBjMDYwNzBjMGMwYzA4MGMwYzA4MGMwYzBjMGMwYzBjMGMwNjA3MDgwODBjMDgwODBjMDgwYzA4MDgwODA4MDgwYzA2MDcwYzA4MGMwODBjMGMwODBjMGMwYzBjMGMwODBjMDYwNzBjMDgwYzBjMGMwODA4MGMwODA4MDgwYzA4MGMwNjA3MGMwYzBjMDgwYzBjMGMwYzBjMDgwYzBjMDgwYzA2MDcwYzA4MDgwODBjMDgwODA4MGMwODA4MDgwODBjMDYwNzBjMDgwYzBjMGMwODBjMGMwYzBjMGMwYzBjMGMwNjA3MGMwYTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA0MjIyMjIyMjIyMDIyMjIyMjAyMDIyMDIwMjAwMDAwMjAwMjIyMjAyMDIwMjAyMDIwMDIwMjAwMjAwMDIwMjAyMjAyMDAyMjIwMjIyMDAwMjIyMjIyMjIwMDIwMjIwMjIyMDIyMDAwMjAyMDAwMDIyMDAyMjIwMjIyMjAwMjIyMjAwMjAwMDIyMDAwMDAwMDIwMjIwMjIyMjAyMDIyMjIyMDAyMDIwMjIwMDAwMDIwMjAwMjAyMDAyMjIwMjIyMDIwMDIwMDAyMDAwMDAyMjAyMDAyMjIwMjIyMDIyMjIyMjAwMjAyMDAwMjAwMDAwMDIwMDIyMjIyMjIyMjIyMjIyMg==",
         "dataEncoding": "base64",
-        "namespace": "myTiles"
+        "namespace": "myTiles.",
+        "mimeType": "application/mkcd-tilemap",
+        "displayName": "level",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.purpleOuterNorth0",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterSouthWest",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterEast1",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.purpleInnerSouthEast",
+            "sprites.dungeon.purpleInnerNorthWest",
+            "sprites.dungeon.purpleInnerSouthWest",
+            "sprites.dungeon.floorDark0"
+        ]
     }
 }
