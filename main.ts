@@ -34,3 +34,4 @@ assets.image`mySnake`,
 assets.image`myShroom`,
 assets.image`myDonut`
 ]
+
